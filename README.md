@@ -44,7 +44,7 @@ The built files will be in the `dist` directory.
 
 ## Configuration
 
-Edit the `public/apps.json` file to customize the applications displayed on your landing page:
+Edit the `public/configs/apps.json` file to customize the applications displayed on your landing page:
 
 ```json
 {
